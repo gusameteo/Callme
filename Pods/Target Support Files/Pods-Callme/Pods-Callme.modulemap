@@ -1,0 +1,6 @@
+framework module Pods_Callme {
+  umbrella header "Pods-Callme-umbrella.h"
+
+  export *
+  module * { export * }
+}
